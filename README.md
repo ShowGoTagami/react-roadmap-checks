@@ -1,4 +1,6 @@
 # ABOUT react-roadmap-checks
+This repository has been transcribed from "roadmap.sh/react" into multiple checkboxes.Fork it and use it at your local or somewhre.
+
 ![roadmap](https://roadmap.sh/roadmaps/react.png)
 from https://roadmap.sh/react
 
